@@ -1,0 +1,15 @@
+C:\Users\aliye\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\aliye\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aliye\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\aliye\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\aliye\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\aliye\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\aliye\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Hp\Desktop\Full_Projects\Console_App\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Hp\Desktop\Full_Projects\Console_App\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Hp\Desktop\Full_Projects\Console_App\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Hp\Desktop\Full_Projects\Console_App\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Full_Projects\Console_App\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Full_Projects\Console_App\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Full_Projects\Console_App\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Hp\Desktop\Full_Projects\Console_App\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
